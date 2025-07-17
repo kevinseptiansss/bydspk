@@ -5,7 +5,7 @@ import { useState, useEffect } from "react";
 
 const cars = [
   {
-    name: "BYD Seagull",
+    name: "BYD Atto 1",
     price: "Rp 218,000,000",
     image: "/assets/byd-seagull-218000000-bestseller.webp",
     status: "indent",
