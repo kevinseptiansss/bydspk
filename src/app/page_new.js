@@ -89,7 +89,7 @@ export default function Home() {
             Experience the Future of <span className="text-gray-600">Electric</span> Driving
           </h1>
           <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-            Discover BYD's innovative electric vehicles with cutting-edge technology, 
+            Discover BYD&apos;s innovative electric vehicles with cutting-edge technology, 
             exceptional performance, and sustainable design.
           </p>
           <div className="bg-white p-6 rounded-lg shadow-lg inline-block border">
